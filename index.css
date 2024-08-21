@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  background-color: black;
+  color: aliceblue;
+}
+
+img {
+  width: 40vh;
+  border-radius: 100%;
+}
+
+#heading {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#capabilities {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+#about {
+  margin-bottom: 0;
+}
+
+#about-para {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+#Contacts {
+  margin-bottom: 0;
+}
+#list {
+  margin-top: 5px;
+}
